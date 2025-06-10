@@ -1,3 +1,6 @@
+![Snake Game Demo](./.github/snake_demo.gif)
+
+
 # 🐍 HEI Snake Game  
 *(Calculatrice et cahier de leçon autorisés)*  
 
